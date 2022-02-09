@@ -25,7 +25,10 @@ body{
   }
 
   .title{
-    margin: auto;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+
   }
   .barra.eua{
     height: 91.76%;
