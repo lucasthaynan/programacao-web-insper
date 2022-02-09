@@ -24,6 +24,9 @@ body{
     background-color: #aa0404;
   }
 
+  .title{
+    margin: auto;
+  }
   .barra.eua{
     height: 91.76%;
   }
